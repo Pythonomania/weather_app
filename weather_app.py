@@ -61,7 +61,7 @@ wmo_weather_codes = {
 }
 
 # Streamlit UI
-st.title("Weather App")
+st.title("Weather App.")
 
 # Input for city name
 city = st.text_input("Enter a city name (e.g., London, New York)")
